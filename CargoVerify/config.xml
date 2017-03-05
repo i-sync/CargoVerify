@@ -1,0 +1,10 @@
+﻿<root>
+  <webservice>http://hi-ray.vicp.cc:8099/service/LBEBusiness</webservice>
+  <!--<webservice>http://120.71.96.30:8099/service/LBEBusiness</webservice>-->
+  <adminuid>wsuser</adminuid>
+  <adminpwd>000000</adminpwd>
+  <scheme>xxxx</scheme>
+  <login>
+    <username>zhangsan</username>
+  </login>
+</root>

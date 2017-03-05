@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CargoVerify", "CargoVerify\CargoVerify.csproj", "{84332D1E-92B7-4043-B016-BD5ABD523C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{95A4D32E-1C84-4242-B110-100312562A01}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "SmartSetup", "SmartSetup\SmartSetup.vddproj", "{D888E1DC-60EF-46D4-B52D-9639CED2F59B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84332D1E-92B7-4043-B016-BD5ABD523C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84332D1E-92B7-4043-B016-BD5ABD523C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84332D1E-92B7-4043-B016-BD5ABD523C59}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{84332D1E-92B7-4043-B016-BD5ABD523C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84332D1E-92B7-4043-B016-BD5ABD523C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84332D1E-92B7-4043-B016-BD5ABD523C59}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{95A4D32E-1C84-4242-B110-100312562A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A4D32E-1C84-4242-B110-100312562A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A4D32E-1C84-4242-B110-100312562A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A4D32E-1C84-4242-B110-100312562A01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D888E1DC-60EF-46D4-B52D-9639CED2F59B}.Debug|Any CPU.ActiveCfg = Debug
+		{D888E1DC-60EF-46D4-B52D-9639CED2F59B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
